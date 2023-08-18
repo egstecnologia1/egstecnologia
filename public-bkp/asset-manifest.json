@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f16c18ee.css",
+    "main.js": "/static/js/main.7d44090b.js",
+    "static/js/787.9d671d37.chunk.js": "/static/js/787.9d671d37.chunk.js",
+    "static/media/leitor-ds8.png": "/static/media/leitor-ds8.b9cd26499092116f6c4a.png",
+    "static/media/leitor-ds4.png": "/static/media/leitor-ds4.6ef0cb4635608a6b2fdf.png",
+    "static/media/leitor-ds6.png": "/static/media/leitor-ds6.80f17ae6f49a23d34998.png",
+    "static/media/d-print-dual.png": "/static/media/d-print-dual.f9cfbb484fd9d56eef79.png",
+    "static/media/d-sat-2-wifi.png": "/static/media/d-sat-2-wifi.c220358a2fd7d9080a4c.png",
+    "static/media/d-sat-2.png": "/static/media/d-sat-2.4b6a4bc7b963cbfed54d.png",
+    "static/media/produto.jpeg": "/static/media/produto.bea265fa0a84a8df05a8.jpeg",
+    "index.html": "/index.html",
+    "static/media/shopping-bag.svg": "/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
+    "static/media/crown.svg": "/static/media/crown.3a4e2b15908e7a4c25343677d232b7e6.svg",
+    "main.f16c18ee.css.map": "/static/css/main.f16c18ee.css.map",
+    "main.7d44090b.js.map": "/static/js/main.7d44090b.js.map",
+    "787.9d671d37.chunk.js.map": "/static/js/787.9d671d37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f16c18ee.css",
+    "static/js/main.7d44090b.js"
+  ]
+}

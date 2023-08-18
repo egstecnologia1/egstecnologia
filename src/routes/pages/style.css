@@ -1,0 +1,15 @@
+table {
+    border-collapse: collapse;
+}
+
+#missao {
+    /* border-collapse: collapse; */
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+#visao {
+    /* border-collapse: collapse; */
+    font-size: 20px;
+    line-height: 1.5;
+}

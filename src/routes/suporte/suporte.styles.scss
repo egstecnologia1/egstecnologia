@@ -1,0 +1,22 @@
+.mb-4, .my-4 {
+    margin-bottom: 1.5rem!important;
+}
+.row {
+    display: flex;
+}
+
+@media (max-width: 375px) {
+    .row {
+        display: flow-root;
+    }    
+}
+
+.child {
+    margin: 0 auto;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
